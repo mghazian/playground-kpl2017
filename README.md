@@ -1,1 +1,1 @@
-# playground-kpl2017
+# SOME CHANGES ARE MADE IN README
