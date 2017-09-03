@@ -1,1 +1,2 @@
-# playground-kpl2017
+# PLAYGROUND KPL 2017
+Happy place to try out and fail miserably
